@@ -1,0 +1,100 @@
+{
+  "markets": [
+    {
+      "id": 1,
+      "symbol": "BTC/USD",
+      "name": "Bitcoin",
+      "price": "43,250.00",
+      "change": "+2.45",
+      "changePercent": "+5.98%",
+      "volume": "2.4B",
+      "category": "crypto",
+      "trend": "up",
+      "chartData": [42000, 42500, 41800, 43250, 43100, 43250]
+    },
+    {
+      "id": 2,
+      "symbol": "ETH/USD",
+      "name": "Ethereum",
+      "price": "2,680.50",
+      "change": "-1.23",
+      "changePercent": "-4.32%",
+      "volume": "1.8B",
+      "category": "crypto",
+      "trend": "down",
+      "chartData": [2800, 2750, 2700, 2650, 2680, 2680]
+    },
+    {
+      "id": 3,
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "price": "189.95",
+      "change": "+3.20",
+      "changePercent": "+1.71%",
+      "volume": "89.2M",
+      "category": "stocks",
+      "trend": "up",
+      "chartData": [186, 187, 188, 189, 190, 189]
+    },
+    {
+      "id": 4,
+      "symbol": "NASDAQ",
+      "name": "NASDAQ 100",
+      "price": "16,789.23",
+      "change": "+120.45",
+      "changePercent": "+0.72%",
+      "volume": "3.2B",
+      "category": "stocks",
+      "trend": "up",
+      "chartData": [16600, 16650, 16700, 16750, 16780, 16789]
+    },
+    {
+      "id": 5,
+      "symbol": "EUR/USD",
+      "name": "Euro Dollar",
+      "price": "1.0845",
+      "change": "-0.0023",
+      "changePercent": "-0.21%",
+      "volume": "156B",
+      "category": "forex",
+      "trend": "down",
+      "chartData": [1.087, 1.086, 1.085, 1.084, 1.0845, 1.0845]
+    },
+    {
+      "id": 6,
+      "symbol": "XAU/USD",
+      "name": "Gold",
+      "price": "2,045.80",
+      "change": "+15.40",
+      "changePercent": "+0.76%",
+      "volume": "2.1B",
+      "category": "commodities",
+      "trend": "up",
+      "chartData": [2030, 2035, 2040, 2042, 2045, 2045]
+    },
+    {
+      "id": 7,
+      "symbol": "TSLA",
+      "name": "Tesla Inc.",
+      "price": "248.50",
+      "change": "-8.75",
+      "changePercent": "-3.40%",
+      "volume": "125M",
+      "category": "stocks",
+      "trend": "down",
+      "chartData": [260, 255, 250, 248, 249, 248]
+    },
+    {
+      "id": 8,
+      "symbol": "BNB/USD",
+      "name": "Binance Coin",
+      "price": "315.60",
+      "change": "+12.30",
+      "changePercent": "+4.05%",
+      "volume": "890M",
+      "category": "crypto",
+      "trend": "up",
+      "chartData": [300, 305, 310, 312, 315, 315]
+    }
+  ]
+}

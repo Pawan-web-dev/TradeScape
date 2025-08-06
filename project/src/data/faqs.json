@@ -1,0 +1,29 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What is TradeScape?",
+      "answer": "TradeScape is a comprehensive trading platform that provides real-time market data, technical analysis tools, and community-driven insights to help traders make informed decisions across stocks, crypto, forex, and commodities."
+    },
+    {
+      "id": 2,
+      "question": "Is TradeScape free to use?",
+      "answer": "We offer both free and premium plans. The free plan includes basic market data and limited trading ideas. Premium plans provide advanced charting tools, real-time alerts, and unlimited access to community insights."
+    },
+    {
+      "id": 3,
+      "question": "What markets can I track on TradeScape?",
+      "answer": "You can track stocks, cryptocurrencies, forex pairs, commodities, indices, and more. We cover major global markets with real-time data feeds and comprehensive analysis tools."
+    },
+    {
+      "id": 4,
+      "question": "How accurate are the trading ideas?",
+      "answer": "Trading ideas are contributed by our community of verified traders. While we can't guarantee accuracy, all contributors are ranked based on their historical performance, helping you identify the most successful analysts."
+    },
+    {
+      "id": 5,
+      "question": "Can I share my own trading ideas?",
+      "answer": "Absolutely! Once you create an account, you can publish your own trading ideas, technical analysis, and market insights. Build your reputation in the community and help fellow traders succeed."
+    }
+  ]
+}

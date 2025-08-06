@@ -1,0 +1,76 @@
+{
+  "tradingIdeas": [
+    {
+      "id": 1,
+      "title": "Bitcoin Breaking Key Resistance - Bullish Momentum Ahead",
+      "author": "CryptoKing_Trader",
+      "preview": "BTC has successfully broken above the $42,000 resistance level with strong volume. Target price $48,000 in the next 2-3 weeks...",
+      "likes": 342,
+      "comments": 87,
+      "tags": ["crypto", "bitcoin", "breakout", "bullish"],
+      "timeAgo": "2 hours ago",
+      "asset": "BTC/USD",
+      "category": "Technical Analysis"
+    },
+    {
+      "id": 2,
+      "title": "NASDAQ Forming Perfect Cup and Handle Pattern",
+      "author": "TechAnalyst_Pro",
+      "preview": "The NASDAQ 100 is showing a classic cup and handle formation on the daily chart. This could signal a continuation of the uptrend...",
+      "likes": 198,
+      "comments": 45,
+      "tags": ["stocks", "nasdaq", "pattern", "bullish"],
+      "timeAgo": "4 hours ago",
+      "asset": "NASDAQ",
+      "category": "Pattern Recognition"
+    },
+    {
+      "id": 3,
+      "title": "Gold Approaching Major Support Zone - Time to Buy?",
+      "author": "GoldBull_2024",
+      "preview": "XAU/USD is testing the critical $2,040 support level. Historical data shows strong bounce potential from this zone...",
+      "likes": 276,
+      "comments": 62,
+      "tags": ["gold", "support", "commodities", "long"],
+      "timeAgo": "6 hours ago",
+      "asset": "XAU/USD",
+      "category": "Fundamental Analysis"
+    },
+    {
+      "id": 4,
+      "title": "Apple Earnings Play - Volatility Strategy",
+      "author": "OptionsExpert_Mike",
+      "preview": "With AAPL earnings approaching, implied volatility is at attractive levels. Consider a straddle strategy to capitalize on potential moves...",
+      "likes": 156,
+      "comments": 38,
+      "tags": ["apple", "earnings", "options", "volatility"],
+      "timeAgo": "8 hours ago",
+      "asset": "AAPL",
+      "category": "Options Strategy"
+    },
+    {
+      "id": 5,
+      "title": "EUR/USD Weekly Analysis - Bearish Divergence Signals",
+      "author": "ForexMaster_John",
+      "preview": "The Euro is showing bearish divergence on the RSI while testing resistance. Short setup with tight risk management...",
+      "likes": 89,
+      "comments": 23,
+      "tags": ["forex", "eurusd", "divergence", "short"],
+      "timeAgo": "12 hours ago",
+      "asset": "EUR/USD",
+      "category": "Weekly Analysis"
+    },
+    {
+      "id": 6,
+      "title": "Tesla Stock Analysis - Oversold Conditions",
+      "author": "EVStockTrader",
+      "preview": "TSLA has reached oversold levels on multiple timeframes. Potential bounce play with proper risk management in place...",
+      "likes": 234,
+      "comments": 71,
+      "tags": ["tesla", "oversold", "bounce", "ev"],
+      "timeAgo": "1 day ago",
+      "asset": "TSLA",
+      "category": "Stock Analysis"
+    }
+  ]
+}

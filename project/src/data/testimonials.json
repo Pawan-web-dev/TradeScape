@@ -1,0 +1,25 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sarah Chen",
+      "role": "Day Trader",
+      "content": "TradeScape has transformed my trading experience. The real-time data and community insights have helped me improve my win rate by 40%.",
+      "avatar": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    },
+    {
+      "id": 2,
+      "name": "Michael Rodriguez",
+      "role": "Swing Trader",
+      "content": "The technical analysis tools and trading ideas from the community are invaluable. I've discovered strategies I never would have found on my own.",
+      "avatar": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    },
+    {
+      "id": 3,
+      "name": "Emma Thompson",
+      "role": "Portfolio Manager",
+      "content": "Managing client portfolios has become so much easier with TradeScape's comprehensive market overview and risk management tools.",
+      "avatar": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    }
+  ]
+}
